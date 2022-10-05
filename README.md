@@ -42,8 +42,8 @@ Service fee :2.5% for listing on OpenSea.<br />
 
 >Reformatting suggestion:<br />
 >
->(1)through HTTP gateway: "http://gateway host/IPFS address" <br />
->(2)through gateway subdomain: "http://cid.ipfs.gateway host/path"<br />
+>(either)through HTTP gateway: "http://gateway host/IPFS address" <br />
+>(or)through gateway subdomain: "http://cid.ipfs.gateway host/path"<br />
 
 >Demo reformatting Part One outputs: <br />
 >
