@@ -38,7 +38,7 @@ Service fee :2.5% for listing on OpenSea.<br />
 
 (1) the contract is labelled "unidentifed contract" because the metadata has not fully pined to IPFS yet before the contract deployment.<br />
 (2) since CID arenot URLs, using them in web browser requires reformatting unless the browser(brave browser) has ipfs bug-ins.<br />
-(3) using [https://car.ipfs.io/] or [ipfs-car] cmd to bulk uploading.
+(3) using [https://car.ipfs.io/] or [ipfs-car] cmd to bulk uploading to get base-CID .
 
 >Reformatting suggestion:<br />
 >
