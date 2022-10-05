@@ -1,0 +1,15 @@
+{
+  "name": "gametoken-storage",
+  "version": "1.0.0",
+  "description": "token_metadata_build",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bing",
+  "license": "MIT",
+  "dependencies": {
+    "mime": "^3.0.0",
+    "nft.storage": "^7.0.0"
+  }
+}
