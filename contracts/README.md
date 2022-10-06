@@ -13,6 +13,6 @@ you need to create a **".env" **file by yourself which contains two variables on
 (1)"MNEMONIC":   HDWalletProvider recovery phrase. <br />
 (2)"INFURA_API_KEY":   Infura supplys Ethereum Görli Testnet node connection, so requires API key here.<br />
 
-Demo direct output of this contract on OpenSea [it needs a wallet connection to OpenSea, which the wallet has the address is the msg.sender.<br />
+Demo direct output of this contract on OpenSea [it needs a wallet connection to OpenSea, which the wallet owns the address of the" msg.sender".<br />
 
 >  https://testnets.opensea.io/collection/ika
